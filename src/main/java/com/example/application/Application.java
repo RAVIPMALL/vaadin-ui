@@ -20,4 +20,8 @@ public class Application implements AppShellConfigurator {
         SpringApplication.run(Application.class, args);
     }
 
+    /*
+        https://vaadin.com/docs/latest/tutorial/handling-view-state
+    */
+
 }
